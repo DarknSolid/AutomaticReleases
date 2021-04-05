@@ -20,6 +20,12 @@
     "express": "^4.17.1"
   },
   "release": {
-    "branches": ["main", "next"]
+    "branches": [
+      "main",
+      "next"
+    ]
+  },
+  "devDependencies": {
+    "semantic-release": "^17.4.2"
   }
 }
