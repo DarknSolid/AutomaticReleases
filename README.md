@@ -1,2 +1,2 @@
 # AutomaticReleases
-something
+something is nice
