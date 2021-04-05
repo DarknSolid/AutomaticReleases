@@ -25,7 +25,5 @@
       "next"
     ]
   },
-  "devDependencies": {
-    "semantic-release": "^17.4.2"
-  }
+  "devDependencies": {}
 }
