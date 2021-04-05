@@ -1,2 +1,2 @@
 # AutomaticReleases
-something is nice!
+something is nice!!
